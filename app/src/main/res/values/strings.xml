@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MemoApp</string>
+
+    <string-array name="camera_array">
+        <item>카메라로 사진찍기</item>
+        <item>앨범에서 가져오기</item>
+    </string-array>
+
+</resources>
