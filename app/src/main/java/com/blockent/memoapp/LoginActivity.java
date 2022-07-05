@@ -31,8 +31,10 @@ public class LoginActivity extends AppCompatActivity {
     EditText editPasswd;
     private ProgressDialog progressDialog;
 
-    //
+    // 테스트를 위한 추가 사항
 
+    // 테스트를 위한 추가 2
+    // 테스트를 위한 추가 3
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
